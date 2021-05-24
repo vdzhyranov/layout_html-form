@@ -1,18 +1,18 @@
 /* styles go here */
-label {
+.label {
   margin-bottom: 10px;
   display: block;
 }
 
-label:last-child {
+.label:last-child {
   margin-bottom: 0;
 }
 
-#age {
+.age {
   max-width: 99px;
 }
 
-div {
+.div_form {
   margin-bottom: 20px;
 }
 
@@ -20,6 +20,6 @@ div {
   display: inline;
 }
 
-div.facts {
+.facts {
   margin-bottom: 10px;
 }
